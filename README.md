@@ -1,57 +1,74 @@
-# Vaishnavi Kasar's Resume
-Welcome to my professional GitHub repository! This repository contains my resume and highlights my work experience, technical skills, projects, and education.
+🚀 About Me
+I am a passionate Software Engineer with hands-on experience in Java Full Stack Development. I enjoy building scalable backend systems, RESTful APIs, and working with databases. I have practical exposure through internships and real-world projects and continuously strive to improve my technical and problem-solving skills.
 
-## 📌 Work Experience
-**ThinkStratum IT Pvt. Ltd., Pune** | *Jul 2025 – Present*  
-**Software Engineer - Intern**  
-- Working as a Backend Developer on a travel booking system using **Java (Spring Boot)** and **MySQL**.  
-- Implemented **RESTful APIs** for modules such as booking creation, user information retrieval, and payment processing.  
-- Utilized **Java, Spring Boot, MySQL, AWS S3, Swagger, Postman** for development and testing.  
-- Collaborated within an **agile team** to optimize backend logic, improve response time, and ensure seamless module integration.  
-- Followed **clean coding practices** while enhancing code reusability, stability, and overall system performance.  
+💼 Work Experience
+1] Software Engineer – Intern
+ThinkStratum IT Pvt. Ltd., Pune
+Jul 2025 – Jan 2026
 
-**VibrantMinds Technologies, Pune** | *2024 – 2025*  
-**Full Stack Java Development Course**  
-- Mastered front-end technologies: **HTML, CSS, JavaScript**.  
-- Learned back-end frameworks: **Core Java, JDBC API, Hibernate, JSP, Servlet, Spring, Spring Boot, Spring MVC**.  
-- Gained strong knowledge of **MySQL** for efficient database design and management.  
-- Enhanced **aptitude, communication, and soft skills** while building responsive and user-friendly applications.  
+Developed backend APIs for a Travel Booking System using Java (Spring Boot) and MySQL.
+Implemented RESTful endpoints for booking creation, user data retrieval, and payment processing.
+Worked in an agile team environment and followed clean coding practices.
 
+2] Software Developer Trainee
+aPLS Web Development, Sambhajinagar
+Jan 2026 – Present
 
-## 💻 Technical Skills
-- **Languages:** Java, JavaScript  
-- **Frontend:** HTML, CSS, Bootstrap, jQuery  
-- **Backend:** JDBC API, Hibernate, Spring, Spring Boot, Spring MVC, JSP, Servlet  
-- **Database:** MySQL, SQL  
-- **Developer Tools:** VS Code, Eclipse IDE, IntelliJ IDEA, MySQL Workbench, Postman, Swagger, Git, GitHub, pgAdmin  
-- **Additional Skills:** Object-Oriented Programming (OOP), Data Structures and Algorithms, API Development, API Testing, API Integration, Hexagonal Architecture  
+Working on the aPLS AI project, understanding system architecture and workflows.
+Assisting in backend development using PHP and Laravel.
+Contributing to debugging, feature enhancements, and code improvements.
 
-## 🚀 Projects
-**Time-Zone Friendly Meeting Scheduler API** | *Java, Spring Boot, MySQL*  
-- Developed a scalable **Spring Boot API** for efficient meeting management across multiple time zones.  
-- Implemented **JWT authentication** and **RBAC** to secure user access.  
-- Engineered robust **time zone handling** using Java’s `ZonedDateTime` API.  
-- Built **automated meeting slot generation** based on user availability.  
-- Configured **real-time email notifications** using JavaMailSender.  
+🎓 Training & Certifications
+Full Stack Java Development Course
+VibrantMinds Technologies, Pune (2024 – 2025)
 
-**Health Reminder App** | *Java, Spring Boot, Spring MVC, MySQL*  
-- Developed the **Spring Boot backend** for a personal health reminder application.  
-- Implemented personalized plan logic based on **user demographics** using Spring MVC and MySQL.  
-- Designed a **two-way notification system** to encourage healthy habits.  
-- Integrated **OpenAI-powered suggestions** to provide personalized health tips.  
-- Engineered a **home-remedy search tool** to enhance user access to self-care information.  
+Frontend: HTML, CSS, JavaScript
+Backend: Java, JDBC, Hibernate, Spring Boot
+Database: MySQL
+Hands-on project development with real-time use cases
 
+🛠 Technical Skills
+Languages :Java,JavaScript
 
-## 🎓 Education
+Frontend : HTML, CSS, Bootstrap, jQuery
 
-**R.C. Patel Institute of Technology, Shirpur, Maharashtra** | *2020 – 2024*  
-**B.Tech in Electronics and Telecommunications**  
+Backend : JDBC API, Hibernate,Spring, Spring Boot, Spring MVC,JSP, Servlet
 
----
+Database : MySQL, SQL
 
-## 📄 Download Resume
+Developer Tools : VS Code, Eclipse, IntelliJ IDEA, MySQL Workbench, pgAdmin , Postman, Swagger, Git, GitHub
 
-[Click here to download my resume](https://drive.google.com/file/d/18jw-tUw1VQ-Y4ohkt64rjECogzzUIeEN/view?usp=drive_link) 
+Additional Skills : Object-Oriented Programming (OOP) , Data Structures & Algorithms , REST API Development & Testing , API Integration, Hexagonal Architecture
 
----
+📂 Projects
+1] Employee Management System
+Tech Stack: Java, Spring MVC, JSP, JDBC, MySQL
 
+Developed a Spring MVC web application with full CRUD operations.
+Implemented layered architecture (Controller, Service, DAO).
+Designed JSP views using JSTL.
+Integrated MySQL using JDBC.
+Deployed on Apache Tomcat with Maven.
+
+2] Online Complaint Management System
+Tech Stack: Java, Spring Boot, REST APIs, MySQL, Postman
+
+Built a RESTful backend for registering and tracking complaints.
+Used Spring Data JPA and Hibernate for database operations.
+Implemented complaint lifecycle using Enum statuses:
+OPEN, IN_PROGRESS, RESOLVED, CLOSED
+Tested APIs thoroughly using Postman.
+
+🎓 Education
+B.Tech – Electronics & Telecommunications
+R.C. Patel Institute of Technology, Shirpur
+2020 – 2024
+CGPA: 7.52 / 10
+
+📌 How to Use This Repository
+
+This repository contains my resume and professional profile.
+
+Feel free to explore my GitHub projects to see my coding style and work.
+
+I am open to internships, entry-level roles, and learning opportunities in software development.
